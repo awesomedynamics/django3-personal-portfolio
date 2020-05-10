@@ -25,7 +25,7 @@ SECRET_KEY = '(enm%g6ajf$)c7q0qeez%#s)bz8fb=50&m3m16in#$m7x*fkfk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['awesomedynamics.pythonanywhere.com']
+ALLOWED_HOSTS = ['awesomedynamics.pythonanywhere.com','www.teamwallet.app']
 
 
 # Application definition
